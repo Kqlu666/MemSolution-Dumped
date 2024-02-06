@@ -6,4 +6,6 @@ If you received a bsod when entering the rust - this is normal, this is how this
 
 Transfer the Fonts files to C:\Windows
 
+My Telegram - @Krystal_RM
+
 ![photo_2024-02-07_02-15-24](https://github.com/Kqlu666/MemSolution-Dumped/assets/57631903/ae8827f7-fef0-4bbb-9d73-6c09bf3e9e02)
