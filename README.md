@@ -1,8 +1,8 @@
 Using: 
 1. Transfer mem-solution_dumped.sys on mapper.exe 
-2. Log in to the rast and the server
+2. Log in to the rust and the server
 
-If you received a bsod when entering the rast - this is normal, this is how this paste works, you need to perform the procedure again. 
+If you received a bsod when entering the rust - this is normal, this is how this paste works, you need to perform the procedure again. 
 
 Transfer the Fonts files to C:\Windows
 
